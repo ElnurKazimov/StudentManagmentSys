@@ -1,0 +1,12 @@
+az\studentmanagmentwithjdbc\entity\TehsilFormasi.class
+az\studentmanagmentwithjdbc\entity\Telebe.class
+az\studentmanagmentwithjdbc\entity\Ixtisas.class
+az\studentmanagmentwithjdbc\config\AbstractDao.class
+az\studentmanagmentwithjdbc\dao\Impl\TelebeDaoImpl.class
+az\studentmanagmentwithjdbc\dao\Inter\MektebDaoInter.class
+az\studentmanagmentwithjdbc\entity\Mekteb.class
+az\studentmanagmentwithjdbc\StudentManagmentWithJdbc.class
+az\studentmanagmentwithjdbc\entity\TedrisDili.class
+az\studentmanagmentwithjdbc\config\Context.class
+az\studentmanagmentwithjdbc\dao\Impl\MektebDaoImpl.class
+az\studentmanagmentwithjdbc\dao\Inter\TelebeDaoInter.class
